@@ -11,7 +11,7 @@ e.g :
 :telephone: 08121277712 
   
 Courses  
-Algoritma dan Pemrograman A (Nama Matkul dan Kelas)
+Algoritma dan Pemrograman A (Nama Matkul dan Kelas)  
 Struktur Data 1  
 Struktur Data 2  
 Sistem Basis Data Lanjut  
