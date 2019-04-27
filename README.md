@@ -26,6 +26,10 @@ Document Root Example
 | :file_folder: STD2  
 | :file_folder: SBDL  
   
+## Purpose this Repository  
+to organize student assignments, one repo for 4 years in College.  
+
+## need something?
 _any question or sugestion? ask me @ardimardiana_
   
 Reference:  
